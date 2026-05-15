@@ -80,7 +80,7 @@ VITE_GROQ_API_KEY=gsk_ATACFAlz6Nc**********************
 
 Run the provided SQL scripts in the Supabase SQL Editor to initialize `user_profiles`, `workouts`, `progress`, and `nutrition_plans` tables with proper Row Level Security (RLS).
 
-### 4. Custom SMTP (Resend)
+### 4. Custom SMTP (MailerSend)
 
 To ensure reliable authentication emails, configure your Resend API key in the Supabase Authentication settings.
 
