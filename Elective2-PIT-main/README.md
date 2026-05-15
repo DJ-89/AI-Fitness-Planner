@@ -69,10 +69,10 @@ cd ai-fitness-planner
 Create a `.env` file in the root directory:
 
 ```env
-VITE_SUPABASE_URL=https://wryitqukyezjcvjrhhln.supabase.co
-VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndyeWl0cXVreWV6amN2anJoaGxuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzc0NDYyNDYsImV4cCI6MjA5MzAyMjI0Nn0.RgzIuk9Ybos4tBRSn6U3LnTg6Q_0wJfwjPzqkx7StMA
-VITE_SUPABASE_PUBLISHABLE_KEY=sb_publishable_PYfXUR862sIWF-pVsfS7rw_VT_ubzB4
-VITE_GROQ_API_KEY=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
+VITE_SUPABASE_URL=https://wryitq****************
+VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJl*********************
+VITE_SUPABASE_PUBLISHABLE_KEY=sb_publishable_***************
+VITE_GROQ_API_KEY=gsk_ATACFAlz6Nc**********************
 
 ```
 
